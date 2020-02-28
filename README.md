@@ -1,4 +1,4 @@
-## Projeto Citi Bike para tembici :)
+## Projeto Citi Bike
 
 Fala pessoal! Ótimo ter vocês por aqui!
 <br>
